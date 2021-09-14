@@ -5,5 +5,5 @@ This repository is a repository for activity 1 in my CC 106 subject it include t
 - paragraphs
    - pragraph 1-4
 - Formating
-  - formating 1
-  - formating 2
+  - formating 1 -2
+  
