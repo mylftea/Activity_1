@@ -4,6 +4,6 @@ This repository is a repository for activity 1 in my CC 106 subject it include t
 - div-and-span
 - paragraphs
    - pragraph 1-4
-Formating
+- Formating
   - formating 1
   - formating 2
